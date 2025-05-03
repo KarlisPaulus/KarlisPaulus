@@ -13,7 +13,7 @@ I’m **Karlis Paulus**, passionate about technology and software development. A
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KarlisPaulus&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🚧 Current Projects
-- **Racetrack info-screens**: A real-time system for controlling races and displaying race information for spectators.
+- **Match-Me Web/Tinder**: Full-Stack recommendation app, which matches people based on their interests, preferences and characteristics. 
 
 ## 📫 Contact Me
 - [LinkedIn](https://www.linkedin.com/in/karlis-paulus)
